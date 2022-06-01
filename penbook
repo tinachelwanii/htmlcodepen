@@ -1,0 +1,23 @@
+<hr size "3" noshade>
+<center>
+<h1>This is level 1 heading<h1>
+  </center>
+  <!-- <center> tag is used to put content in center -->
+    <h1>Heading level 1</h1>
+    <h2>Heading level 2</h2>
+    <h3>Heading level 3</h3>
+    <h4>Heading level 4</h4>
+    <h5>Heading level 5</h5>
+    <h6>Heading level 6</h6>
+  <!-- <h1> is a start tag and </h1> is an end tag headings have start and end tag
+    the <h1> to <h6> HTML elements represents siz levels of section headings
+    <h1> is the highest section level and <h6> is the lowest-->
+    <h3>this is a penbook which i can look at after ages as a proof that i learnt html hehe</h3>
+    <br>
+    <h3>and also do the revision</h3>
+    <!--this is used as comment in html-->
+    <hr size "3" noshade>
+    <!--<hr size "3"> hr is used for line then to add the level of size you want rite size and number with double quotes and write the color like       noshade you want in document,it doesn't have an end tag-->
+    <!-- refer to dev docs.io-->
+    
+    <!-- <br> is used to skip a line and it is a self closing tag -->

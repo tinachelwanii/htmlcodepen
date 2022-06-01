@@ -17,7 +17,7 @@
     <h3>and also do the revision</h3>
     <!--this is used as comment in html-->
     <hr size "3" noshade>
-    <!--<hr size "3"> hr is used for line then to add the level of size you want rite size and number with double quotes and write the color like       noshade you want in document,it doesn't have an end tag-->
+    <!--<hr size "3"> hr is used for line then to add the level of size you want write size and number with double quotes and write the color like noshade you want in document,it doesn't have an end tag-->
     <!-- refer to dev docs.io-->
     
     <!-- <br> is used to skip a line and it is a self closing tag -->

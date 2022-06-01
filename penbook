@@ -9,8 +9,8 @@
     <h4>Heading level 4</h4>
     <h5>Heading level 5</h5>
     <h6>Heading level 6</h6>
-  <!-- <h1> is a start tag and </h1> is an end tag headings have start and end tag
-    the <h1> to <h6> HTML elements represents siz levels of section headings
+  <!-- <h1> is a start tag and </h1> is an end tag .headings have start and end tag
+    the <h1> to <h6> HTML elements represents size levels of section headings
     <h1> is the highest section level and <h6> is the lowest-->
     <h3>this is a penbook which i can look at after ages as a proof that i learnt html hehe</h3>
     <br>
